@@ -1,0 +1,20 @@
+Verify that an invalid (big) column produces an exception ... ok
+Verify that an invalid (small) column produces an exception ... ok
+Verify that playing in a full column produces an exception ... ok
+Verify that an invalid color produces an exception ... ok
+Verify that an out-of-order play produces an exception ... ok
+Verify that a board can be created ... ok
+Verify that an empty board has no wins ... ok
+Verify that the __repr__ method executes ... ok
+Verify that the __str__ method executes ... ok
+Test a basic down-to-the-right diagonal win ... ok
+Test a basic up-to-the-right diagonal win ... ok
+Test a basic horizontal win ... ok
+Test a basic vertical win with black winning ... ok
+Test a basic vertical win ... ok
+Test a full board with no wins ... ok
+
+----------------------------------------------------------------------
+Ran 15 tests in 0.006s
+
+OK
